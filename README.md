@@ -1,6 +1,6 @@
 # Important-Notes
 
-## Best Website For Add Animation In React.
+## Best Website For Adding Animation In React.
 ```
 https://www.reactbits.dev/
 ```
