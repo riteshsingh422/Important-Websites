@@ -19,3 +19,8 @@ https://tawk.to/
 https://ant.design/
 ```
 
+## Download Icon or Image in SVG format
+```
+https://www.svgrepo.com/
+```
+
